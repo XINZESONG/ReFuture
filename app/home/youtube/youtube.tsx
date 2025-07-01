@@ -9,10 +9,6 @@ import useWindowWidth from "../../hook/useWindowWidth";
 import leftArrow from "../../../asset/left.png";
 import Image from "next/image";
 
-// const API_KEY = "AIzaSyCCsabyTPmPQd-aa0t3XUS0xetBZy8_BhA";
-// const CHANNEL_ID_GLITCH = "UCn_FAXem2-e3HQvmK-mOH4g";
-// const CHANNEL_ID_SMG4 = "UC8LcA3grYZg0GNpxlXh8owg";
-
 const Youtube = () => {
   const [activeTab, setActiveTab] = useState("glitch");
   const [currentPage, setCurrentPage] = useState<number>(1);
