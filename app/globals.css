@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+  --animation-timing: 27s;
+  --carousel-items: 9;
+  --animation-delay-fraction: calc(
+    var(--animation-timing) / var(--carousel-items)
+  );
+  --animation-steps-fraction: calc(100 / var(--carousel-items));
+  --slide-change-timing: 3%; /* percentage of total animation cycle */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+.animate-change {
+  @apply transition-transform duration-1000 ease-in-out;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background-color: #28243c;
+}
+
+.fontColor {
+  color: #f7f5ff;
+  font-family: Helvetica;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.image {
+  user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
