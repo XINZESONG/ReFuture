@@ -1,0 +1,32 @@
+Report created: 
+	15-11-2021	14:50:00
+
+Project name: Meteor_2.aep
+
+Source files collected to: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Exports\Meteor_2\Meteor_2 Ae
+
+Source files collected: All
+
+Collected comps:  
+	Meteor.2
+	Star1
+	Star 2
+	Star 3
+	Stroke 1
+	
+Number of collected files:  1
+
+Size of collected files:  238 KB
+
+Collected source files: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Ae main source\(Footage)\Space Icon set.aep\Side comp\Meteor.2 Layers\Meteor.2.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Stroke
+	
+

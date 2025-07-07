@@ -1,0 +1,24 @@
+Report created: 
+	15-11-2021	14:51:22
+
+Project name: Moon.aep
+
+Source files collected to: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Exports\Moon\Moon Ae
+
+Source files collected: All
+
+Collected comps:  
+	Moon
+	Pattern/Moon
+	
+Number of collected files:  1
+
+Size of collected files:  242 KB
+
+Collected source files: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Ae main source\(Footage)\Space Icon set.aep\Side comp\Moon Layers\Moon.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	

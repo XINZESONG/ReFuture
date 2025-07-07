@@ -1,0 +1,33 @@
+Report created: 
+	15-11-2021	14:47:25
+
+Project name: Meteor.aep
+
+Source files collected to: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Exports\Meteor\Meteor Ae
+
+Source files collected: All
+
+Collected comps:  
+	Meteor
+	BG
+	Cluster
+	PL1+Moon
+	
+Number of collected files:  1
+
+Size of collected files:  233 KB
+
+Collected source files: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Ae main source\(Footage)\Space Icon set.aep\Side comp\Meteor Layers\Meteor.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  2
+
+Effect:  Gaussian Blur
+	
+Effect:  Stroke
+	
+

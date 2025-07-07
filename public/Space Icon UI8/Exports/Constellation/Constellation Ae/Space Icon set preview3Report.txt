@@ -1,0 +1,30 @@
+Report created: 
+	15-11-2021	14:16:48
+
+Project name: Space Icon set preview3.aep
+
+Source files collected to: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Exports\Constellation\Constellation Ae
+
+Source files collected: All
+
+Collected comps:  
+	Constellation
+	
+Number of collected files:  1
+
+Size of collected files:  233 KB
+
+Collected source files: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Space Icon Ae Source\(Footage)\Space Icon set.aep\Side comp\Constellation Layers\Constellation.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  2
+
+Effect:  Fast Box Blur
+	
+Effect:  Stroke
+	
+

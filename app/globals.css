@@ -2,6 +2,30 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Kira Font Face Definition */
+@font-face {
+  font-family: 'Kira';
+  src: url('/fonts/Kira.woff') format('woff'),
+       url('/fonts/Kira.ttf') format('truetype'),
+       url('/fonts/Kira.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Regina Font Face Definition */
+@font-face {
+  font-family: 'Regina';
+  src: url('/fonts/region/Regina.eot');
+  src: url('/fonts/region/Regina.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/region/Regina.woff') format('woff'),
+       url('/fonts/region/Regina.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  text-rendering: optimizeLegibility;
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -34,7 +58,7 @@ body {
 
 .fontColor {
   color: #f7f5ff;
-  font-family: Helvetica;
+  font-family: 'Kira', Helvetica, sans-serif;
 }
 
 @layer utilities {

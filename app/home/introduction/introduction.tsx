@@ -61,10 +61,10 @@ const Introduction = () => {
     <div className="w-full max-w-7xl mx-auto px-4 py-16">
       {/* Main Introduction */}
       <div className="text-center mb-16">
-        <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
+        <h2 className="font-regina text-4xl md:text-5xl font-bold text-white mb-6">
           Your AI-Powered Growth Companion
         </h2>
-        <p className="text-xl md:text-2xl text-gray-300 max-w-5xl mx-auto leading-relaxed text-justify">
+        <p className="font-regina text-xl md:text-2xl text-gray-300 max-w-5xl mx-auto leading-relaxed text-justify">
           ReFuture is your comprehensive platform that integrates all the tools and resources you need for personal growth. 
           Our AI virtual assistant provides intelligent guidance across learning, life, and work to help you achieve your full potential.
         </p>
@@ -133,10 +133,10 @@ const Introduction = () => {
 
       {/* Call to Action */}
       <div className="text-center mt-16">
-        <button className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white font-bold py-4 px-8 rounded-full text-lg transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl">
+        <button className="font-regina bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white font-bold py-4 px-8 rounded-full text-lg transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl">
           Start Your Growth Journey
         </button>
-        <p className="text-gray-400 mt-4 text-sm">
+        <p className="font-regina text-gray-400 mt-4 text-sm text-xl">
           Join thousands of users already transforming their lives with AI assistance
         </p>
       </div>

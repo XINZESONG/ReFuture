@@ -1,0 +1,143 @@
+Report created: 
+	15-11-2021	14:25:58
+
+Project name: Space Icon set preview3.aep
+
+Source files collected to: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Ae main source
+
+Source files collected: All
+
+Collected comps:  
+	Master
+	Pre-comp 1
+	Starry bg
+	Astronaut
+	Constellation
+	Droid
+	Ear sig
+	Earth
+	Earth+Bg
+	Pattern/Earth
+	Flag
+	Flag Comp 1
+	Pattern/Flag
+	Meteor
+	BG
+	Cluster
+	PL1+Moon
+	Meteor.2
+	Star1
+	Star 2
+	Star 3
+	Stroke 1
+	Moon
+	Pattern/Moon
+	Orbits
+	Core ring
+	Core Ring
+	Orbit Sub
+	Rocket
+	PL!
+	Wing
+	Satelite
+	Bottom
+	Line Comp 1
+	Saturn
+	Sat
+	Signal Dish
+	Star BG
+	Space station
+	Light
+	Star bg
+	System
+	Telescope
+	Space Icon Set-Main
+	Icon Count
+	Board
+	Board Comp 
+	Text
+	Noise
+	Individual Icons
+	Json Exports
+	Shape Converted
+	
+Number of collected files:  2019
+
+Size of collected files:  18.3 MB
+
+Collected source files: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\LOGO LOOP.aep\LOGO try out.aep\Logo slide Layers\Logo slide.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Astronaut Layers\Astronaut.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Constellation Layers\Constellation.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Droid Layers\Droid.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Earth Layers\Earth.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Flag Layers\Flag.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Meteor Layers\Meteor.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Meteor.2 Layers\Meteor.2.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Moon Layers\Moon.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Orbits Layers\Orbits.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Rocket Layers\Rocket.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Satelite Layers\Satelite.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Saturn Layers\Saturn.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Signal Dish Layers\Signal Dish.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Space station Layers\Space station.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\System Layers\System.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Telescope Layers\Telescope.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Space Icon Set-Main Layers\Space Icon Set-Main.ai
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Starry bg\depositphotos_3420329-stock-illustration-night-sky-with-star-clouds.jpg
+	Sequence "Astronaut_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Astronaut with 125 files and 0 auxiliary files
+	Sequence "Constellation_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Constellation with 125 files and 0 auxiliary files
+	Sequence "Droid_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Droid with 125 files and 0 auxiliary files
+	Sequence "Earth_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Earth with 125 files and 0 auxiliary files
+	Sequence "Flag_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Flag with 125 files and 0 auxiliary files
+	Sequence "Meteor_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Meteor with 125 files and 0 auxiliary files
+	Sequence "Meteor_2_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Meteor_2 with 125 files and 0 auxiliary files
+	Sequence "Moon_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Moon with 125 files and 0 auxiliary files
+	Sequence "Orbit_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Orbit with 125 files and 0 auxiliary files
+	Sequence "Rocket_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Rocket with 125 files and 0 auxiliary files
+	Sequence "Satellite_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Satellite with 125 files and 0 auxiliary files
+	Sequence "Saturn_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Saturn with 125 files and 0 auxiliary files
+	Sequence "Signal Dish_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Signal dish with 125 files and 0 auxiliary files
+	Sequence "Space Station_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Space Station with 125 files and 0 auxiliary files
+	Sequence "System_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\System with 125 files and 0 auxiliary files
+	Sequence "Telescope_[00000-00124].png" at D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Exports\PNG\Telescope with 125 files and 0 auxiliary files
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  14
+
+Effect:  CC Ball Action
+	
+Effect:  Colorama
+	
+Effect:  Curves
+	
+Effect:  Displacement Map
+	
+Effect:  Fast Box Blur
+	
+Effect:  Fill
+	
+Effect:  Fractal Noise
+	
+Effect:  Gaussian Blur
+	
+Effect:  Glow
+	
+Effect:  Posterize Time
+	
+Effect:  Puppet
+	
+Effect:  Simple Choker
+	
+Effect:  Stroke
+	
+Effect:  Turbulent Noise
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Roboto”, Font style: “Medium”
+

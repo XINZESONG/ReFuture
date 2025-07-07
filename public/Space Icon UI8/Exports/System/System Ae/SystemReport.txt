@@ -1,0 +1,28 @@
+Report created: 
+	15-11-2021	14:31:08
+
+Project name: System.aep
+
+Source files collected to: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Exports\System\System Ae
+
+Source files collected: All
+
+Collected comps:  
+	System
+	
+Number of collected files:  1
+
+Size of collected files:  241 KB
+
+Collected source files: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Ae main source\(Footage)\Space Icon set.aep\Side comp\System Layers\System.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Stroke
+	
+

@@ -1,0 +1,25 @@
+Report created: 
+	15-11-2021	14:28:02
+
+Project name: Earth.aep
+
+Source files collected to: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Exports\Earth\Earth Ae
+
+Source files collected: All
+
+Collected comps:  
+	Earth
+	Earth+Bg
+	Pattern/Earth
+	
+Number of collected files:  1
+
+Size of collected files:  238 KB
+
+Collected source files: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Ae main source\(Footage)\Space Icon set.aep\Side comp\Earth Layers\Earth.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	

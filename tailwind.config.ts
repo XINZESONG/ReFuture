@@ -8,6 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        'kira': ['Kira', 'cursive'],
+        'regina': ['Regina', 'serif'],
+      },
       colors: {
         customColor: "#e123be", // Add custom colors if needed
       },

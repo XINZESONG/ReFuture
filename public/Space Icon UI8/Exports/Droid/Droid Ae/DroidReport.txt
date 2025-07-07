@@ -1,0 +1,24 @@
+Report created: 
+	15-11-2021	14:24:03
+
+Project name: Droid.aep
+
+Source files collected to: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Exports\Droid\Droid Ae
+
+Source files collected: All
+
+Collected comps:  
+	Droid
+	Ear sig
+	
+Number of collected files:  1
+
+Size of collected files:  232 KB
+
+Collected source files: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Droid Layers\Droid.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	

@@ -1,0 +1,30 @@
+Report created: 
+	15-11-2021	14:48:36
+
+Project name: Flag.aep
+
+Source files collected to: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Exports\Flag\Flag Ae
+
+Source files collected: All
+
+Collected comps:  
+	Flag
+	Flag Comp 1
+	Pattern/Flag
+	
+Number of collected files:  1
+
+Size of collected files:  228 KB
+
+Collected source files: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Ae main source\(Footage)\Space Icon set.aep\Side comp\Flag Layers\Flag.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Puppet
+	
+
