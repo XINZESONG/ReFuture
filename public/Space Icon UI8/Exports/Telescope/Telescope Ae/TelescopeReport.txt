@@ -1,0 +1,23 @@
+Report created: 
+	15-11-2021	14:29:33
+
+Project name: Telescope.aep
+
+Source files collected to: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Exports\Telescope\Telescope Ae
+
+Source files collected: All
+
+Collected comps:  
+	Telescope
+	
+Number of collected files:  1
+
+Size of collected files:  244 KB
+
+Collected source files: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Ae main source\(Footage)\Space Icon set.aep\Side comp\Telescope Layers\Telescope.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	

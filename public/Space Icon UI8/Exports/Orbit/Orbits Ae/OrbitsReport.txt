@@ -1,0 +1,26 @@
+Report created: 
+	15-11-2021	14:41:38
+
+Project name: Orbits.aep
+
+Source files collected to: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Exports\Orbit\Orbits Ae
+
+Source files collected: All
+
+Collected comps:  
+	Orbits
+	Core ring
+	Core Ring
+	Orbit Sub
+	
+Number of collected files:  1
+
+Size of collected files:  238 KB
+
+Collected source files: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Ae main source\(Footage)\Space Icon set.aep\Side comp\Orbits Layers\Orbits.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	

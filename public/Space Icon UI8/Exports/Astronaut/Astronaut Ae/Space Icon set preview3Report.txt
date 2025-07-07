@@ -1,0 +1,23 @@
+Report created: 
+	15-11-2021	14:14:38
+
+Project name: Space Icon set preview3.aep
+
+Source files collected to: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Exports\Astronaut\Astronaut Ae
+
+Source files collected: All
+
+Collected comps:  
+	Astronaut
+	
+Number of collected files:  1
+
+Size of collected files:  243 KB
+
+Collected source files: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\Collected\(Footage)\Space Icon set.aep\Side comp\Astronaut Layers\Astronaut.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	

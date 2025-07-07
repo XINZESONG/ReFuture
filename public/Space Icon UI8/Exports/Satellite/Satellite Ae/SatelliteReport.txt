@@ -1,0 +1,30 @@
+Report created: 
+	15-11-2021	14:43:07
+
+Project name: Satellite.aep
+
+Source files collected to: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Exports\Satellite\Satellite Ae
+
+Source files collected: All
+
+Collected comps:  
+	Satelite
+	Bottom
+	Line Comp 1
+	
+Number of collected files:  1
+
+Size of collected files:  242 KB
+
+Collected source files: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Ae main source\(Footage)\Space Icon set.aep\Side comp\Satelite Layers\Satelite.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Stroke
+	
+

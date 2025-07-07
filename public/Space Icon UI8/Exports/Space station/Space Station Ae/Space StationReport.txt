@@ -1,0 +1,30 @@
+Report created: 
+	15-11-2021	14:39:56
+
+Project name: Space Station.aep
+
+Source files collected to: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Exports\Space station\Space Station Ae
+
+Source files collected: All
+
+Collected comps:  
+	Space station
+	Light
+	Star bg
+	
+Number of collected files:  1
+
+Size of collected files:  236 KB
+
+Collected source files: 
+	D:\Glitch\LY\SMM\LY Eminent\Icon set\Animated Icons\Space ICons\UI8 Exp -New\Ae main source\(Footage)\Space Icon set.aep\Side comp\Space station Layers\Space station.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Stroke
+	
+

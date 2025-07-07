@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import Image, { StaticImageData } from "next/image";
 import styles from "./banner.module.css";
 import useWindowWidth from "../../hook/useWindowWidth";
+import AnimatedIcon from "../../component/icon/AnimatedIcon";
 
 const Banner = ({
   refutureLogo,
@@ -69,13 +70,23 @@ const Banner = ({
         <div className="w-full h-full flex justify-center mt-40">
             {/* Enhanced Days Display with Typewriter Effect */}
             <div className="text-center">
+              {/* Animated Satellite Icon */}
+              <div className="flex justify-center mb-8">
+                <AnimatedIcon 
+                  type="satellite" 
+                  size={280} 
+                  className="animate-bounce" 
+                  useSVG={true}
+                  color="cyan"
+                />
+              </div>
               <div className="text-6xl sm:text-8xl lg:text-9xl font-bold mb-6">
                 {digits.map((digit, index) => (
                   <span 
                     key={index} 
                     className={`inline-block mx-1 ${
                       index === digits.length - 1 
-                        ? "animate-bounce text-green-400" 
+                        ? "animate-pulse text-purple-400" 
                         : "text-blue-400"
                     }`}
                     style={{
