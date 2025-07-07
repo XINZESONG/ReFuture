@@ -1,5 +1,7 @@
 "use client";
 
+import Image from "next/image";
+
 interface AnimatedIconProps {
   type: "rocket" | "astronaut" | "satellite" | "system" | "earth" | "moon" | "telescope" | "droid" | "space-station" | "constellation" | "saturn" | "meteor" | "orbit" | "signal-dish";
   size?: number;
@@ -48,13 +50,13 @@ const AnimatedIcon = ({ type, size = 48, className = "", useSVG = false, color =
       className={`flex items-center justify-center ${className}`}
       style={{ width: size, height: size }}
     >
-      <img
+      <Image
         src={getIconPath(type, useSVG)}
         alt={`${type} icon`}
+        width={size}
+        height={size}
         className="w-full h-full object-contain"
         style={{ 
-          width: size, 
-          height: size,
           filter: color !== "none" ? getColorFilter(color) : "none"
         }}
       />

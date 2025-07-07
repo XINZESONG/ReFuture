@@ -47,7 +47,7 @@ const StudySection = () => {
               No Study Projects Yet
             </h2>
             <p className="font-regina text-gray-300 text-lg">
-              We're working on exciting study projects. Stay tuned!
+              We&apos;re working on exciting study projects. Stay tuned!
             </p>
           </div>
         </div>
