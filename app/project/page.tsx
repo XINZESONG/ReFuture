@@ -68,7 +68,7 @@ const ProjectPage = () => {
                 More Projects Coming Soon
               </h2>
               <p className="font-regina text-gray-300 text-lg">
-                We're constantly working on new innovative projects. Stay tuned for more exciting developments!
+                We&apos;re constantly working on new innovative projects. Stay tuned for more exciting developments!
               </p>
             </div>
           </div>
