@@ -1,0 +1,11 @@
+/* Webfont: Regina */@font-face {
+    font-family: 'Regina';
+    src: url('Regina.eot'); /* IE9 Compat Modes */
+    src: url('Regina.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Regina.woff') format('woff'), /* Modern Browsers */
+         url('Regina.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
