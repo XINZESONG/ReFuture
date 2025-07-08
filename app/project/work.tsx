@@ -20,7 +20,7 @@ const WorkSection = () => {
       status: "In Development",
       image: refutureLogo,
       githubUrl: "#",
-      liveUrl: "#"
+      liveUrl: "/ResumeTracker"
     }
   ];
 
